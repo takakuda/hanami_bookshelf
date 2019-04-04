@@ -6,3 +6,4 @@
 .rspec
 /vendor/bundle
 /.bundle
+/postgres
